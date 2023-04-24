@@ -1,7 +1,3 @@
 # Laravel Vapor Core / Runtime
 
-[Laravel Vapor](https://vapor.laravel.com) is an auto-scaling, serverless deployment platform for Laravel, powered by AWS Lambda. Manage your Laravel infrastructure on Vapor and fall in love with the scalability and simplicity of serverless.
-
-Vapor abstracts the complexity of managing Laravel applications on AWS Lambda, as well as interfacing those applications with SQS queues, databases, Redis clusters, networks, CloudFront CDN, and more.
-
-This repository contains the base docker images used to make Laravel applications run smoothly in a docker & serverless environment. To learn more about Vapor and how to use this repository, please consult the [official documentation](https://docs.vapor.build).
+Introduce PHP 8.1 image since Vapor team didn't care to add it when it's still actively supported.
